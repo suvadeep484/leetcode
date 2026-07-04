@@ -36,4 +36,4 @@
   - "" (empty string)
   - [] (empty list)
   - Empty collection (empty tuple , empty set , empty dictionary)
-- A value is truthy if it is not falsy
+- A value is truthy if it is not false
